@@ -29,7 +29,8 @@ Quality and release practices are built into the workflow rather than treated as
 | [Risk Management & Communication](octoacme-risks-and-communication.md) | Risk register format, escalation paths, and stakeholder communication cadences and templates. |
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release checklist, staging validation, rollback/incident playbook, and post-deploy verification steps. |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, how to track improvement actions, and the feedback loop back into process docs. |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for PM, Product Manager/Lead, Developers, QA/Testing, and Stakeholders. |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for all cross-functional roles: PM, Product Manager, Developers, QA/Testing, Stakeholders, Scrum Master, UX Designer, Business Analyst, Release Manager, and Support/Customer Success Lead. |
+| [Cross-Functional Collaboration Checklist](octoacme-cross-functional-collaboration-checklist.md) | Phase-by-phase collaboration checklist and RACI summary covering all roles from Initiation through Close & Retrospective. |
 
 ---
 

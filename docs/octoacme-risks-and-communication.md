@@ -24,6 +24,8 @@ Maintain a simple table with:
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
+> For a full list of roles involved in communication and escalation, see [Roles & Personas](octoacme-roles-and-personas.md).
+
 ## Communication Templates
 Weekly Status Template:
 - Progress this week:
