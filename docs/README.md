@@ -1,6 +1,6 @@
 # OctoAcme Project Management Docs
 
-This folder is the **single source of truth** for OctoAcme's project management processes. It exists to centralise team knowledge, accelerate onboarding, and give everyone a repeatable, consistent framework for delivering software—from the first idea through to retrospective.
+This folder is the **single source of truth** for OctoAcme's project management processes. It exists to centralize team knowledge, accelerate onboarding, and give everyone a repeatable, consistent framework for delivering software—from the first idea through to retrospective.
 
 Use these documents as living references during project work. When a process changes, update the relevant document and open an issue (see [Contributing](#contributing) below) so the change is visible to the whole team.
 
