@@ -23,6 +23,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+> For role responsibilities during release, see [Roles & Personas](octoacme-roles-and-personas.md) and the [Cross-Functional Collaboration Checklist](octoacme-cross-functional-collaboration-checklist.md).
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call

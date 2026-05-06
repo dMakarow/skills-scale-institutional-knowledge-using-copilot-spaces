@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+> Additional cross-functional roles (Scrum Master, UX Designer, Business Analyst, Release Manager, Support/Customer Success Lead) are defined in [Roles & Personas](octoacme-roles-and-personas.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
